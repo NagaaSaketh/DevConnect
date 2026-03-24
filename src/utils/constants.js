@@ -1,1 +1,1 @@
-export const BASE_URL = "/api"
+export const BASE_URL = "https://devconnect-backend-e470.onrender.com"
